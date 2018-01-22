@@ -1,0 +1,6 @@
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe.config
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.pdb
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\2. Simple Calculator\obj\Debug\2. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.exe
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.pdb

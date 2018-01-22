@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe.config
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.pdb
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\6. Traffic Jam\obj\Debug\6. Traffic Jam.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\6. Traffic Jam\obj\Debug\6. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.exe
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.pdb

@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\5. HotPotato\bin\Debug\_5.HotPotato.exe.config
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\5. HotPotato\bin\Debug\_5.HotPotato.exe
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\5. HotPotato\bin\Debug\_5.HotPotato.pdb
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\5. HotPotato\obj\Debug\5. HotPotato.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\5. HotPotato\obj\Debug\5. HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\5. HotPotato\obj\Debug\_5.HotPotato.exe
+C:\Users\david\Desktop\C#Adv\Stacks and Queues\Lab\StacksAndQueues-Lab\5. HotPotato\obj\Debug\_5.HotPotato.pdb
