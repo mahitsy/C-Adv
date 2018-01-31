@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.deps.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.dev.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.pdb
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfo.cs
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.pdb

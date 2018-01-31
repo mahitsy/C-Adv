@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.deps.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.runtimeconfig.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.runtimeconfig.dev.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.dll
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\bin\Debug\netcoreapp2.0\01. Reverse Numbers.pdb
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.AssemblyInfo.cs
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.dll
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\01. Reverse Numbers\obj\Debug\netcoreapp2.0\01. Reverse Numbers.pdb
