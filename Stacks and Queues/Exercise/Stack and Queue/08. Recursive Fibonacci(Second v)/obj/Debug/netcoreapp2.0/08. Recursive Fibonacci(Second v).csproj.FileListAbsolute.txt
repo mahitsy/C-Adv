@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).deps.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).runtimeconfig.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).runtimeconfig.dev.json
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).dll
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).pdb
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).AssemblyInfo.cs
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).dll
+C:\Users\david\Desktop\C-Adv\Stacks and Queues\Exercise\Stack and Queue\08. Recursive Fibonacci(Second v)\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci(Second v).pdb
