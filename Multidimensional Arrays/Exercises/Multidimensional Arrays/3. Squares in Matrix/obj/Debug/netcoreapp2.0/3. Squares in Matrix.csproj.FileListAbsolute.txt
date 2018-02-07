@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.deps.json
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.runtimeconfig.json
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.dll
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.pdb
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.AssemblyInfo.cs
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.dll
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.pdb

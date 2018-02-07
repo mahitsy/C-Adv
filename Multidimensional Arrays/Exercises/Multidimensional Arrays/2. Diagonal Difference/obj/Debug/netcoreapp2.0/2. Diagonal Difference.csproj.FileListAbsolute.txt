@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.deps.json
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.json
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.pdb
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfo.cs
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+C:\Users\david\Desktop\C-Adv\Multidimensional Arrays\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.pdb
